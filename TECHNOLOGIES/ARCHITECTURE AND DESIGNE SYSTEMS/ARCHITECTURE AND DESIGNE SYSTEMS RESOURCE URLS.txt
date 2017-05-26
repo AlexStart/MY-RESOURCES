@@ -1,0 +1,21 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Design Youtube @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+How to Design Youtube (Part I)
+http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/?utm_campaign=quora&utm_medium=What+is+YouTube%27s+architecture%3F+Request&utm_source=quora
+How to Design Youtube (Part II)
+http://blog.gainlo.co/index.php/2016/11/04/design-youtube-part-ii/?utm_campaign=quora&utm_medium=What+is+YouTube%27s+architecture%3F+Request&utm_source=quora
+
+What is YouTube's architecture?
+https://www.quora.com/What-is-YouTubes-architecture
+
+YouTube Architecture
+http://highscalability.com/youtube-architecture
+7 Years Of YouTube Scalability Lessons In 30 Minutes
+http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+How to Design Twitter
+http://blog.gainlo.co/index.php/2016/02/17/system-design-interview-question-how-to-design-twitter-part-1/
+
+Design Facebook Chat Function 
+http://blog.gainlo.co/index.php/2016/04/19/design-facebook-chat-function/

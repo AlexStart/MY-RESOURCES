@@ -1,0 +1,25 @@
+*************** Advanced Algorithms (COMPSCI 224) by Harvard University ********************
+https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf
+CS 224: Advanced Algorithms - Projects by Harvard University
+http://people.seas.harvard.edu/~minilek/cs224/fall14/hmwk.html
+http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html
+
+************** Algorithms for Big Data (COMPSCI 229r) by Harvard University ***************************
+https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf
+https://www.youtube.com/results?search_query=Algorithms+for+Big+Data+%28COMPSCI+229r%29%2C+Lecture+2
+https://www.youtube.com/watch?v=s9xSfIw83tk
+
+S6 Ep.4 - The Ethiopian-American Harvard Computer Science Professor Dr. Jelani 
+https://www.youtube.com/watch?v=iqFmOplH4og
+TEDxAddis - Jelani Nelson - Streaming Algorithms
+https://www.youtube.com/watch?v=QNdLzVNHSYk
+
+****************************** Algorithms by MIT **********************************************
+
+MIT 6.006 Introduction to Algorithms, Fall 2011
+https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+
+Introduction to Algorithms by MIT
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
+
+

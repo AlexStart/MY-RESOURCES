@@ -1,0 +1,68 @@
+Recommender Systems CS50 is Harvard University's introduction to the intellectual enterprises of computer science.
+https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA
+
+Lecture xx - Recommender-systems-overview
+https://www.coursera.org/learn/ml-foundations/lecture/w7uDT/recommender-systems-overview
+Lecture xx - Where-we-see-recommender-systems-in-action
+https://www.coursera.org/learn/ml-foundations/lecture/ajLGN/where-we-see-recommender-systems-in-action
+Lecture 76 - Building a recommender system via classification
+https://www.coursera.org/learn/ml-foundations/lecture/ucffT/building-a-recommender-system-via-classification
+
+6 -4 Netflix recommendation system
+https://www.youtube.com/watch?v=TSv6eLAOt78
+
+Lecture 12 -Analyzing Big Data with Twitter: Recommender Systems by Alpa Jain (Berkeley School of Information)
+https://www.youtube.com/watch?v=NSscbT7JwxY
+
+Mining Massive Datasets - Stanford University (ML and Recommender Systems)
+https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV
+
+Data Science - Part VI - Market Basket and Product Recommendation Engines
+https://www.youtube.com/watch?v=898mey_dKSs
+
+Writing Recommender Systems with Java: An Introduction (Using Apache Mahout Taste recommenders)
+https://www.youtube.com/watch?v=ZKA0sieMtE0
+
+
+------------------ ARTICLES --------------------------------------------
+How can I start building a recommendation engine?
+https://www.quora.com/How-can-I-start-building-a-recommendation-engine
+
+How do I code a simple recommendation system in Java using Eclipse?
+https://www.quora.com/How-do-I-code-a-simple-recommendation-system-in-Java-using-Eclipse
+
+
+Understanding basics of Recommendation Engines (with case study)
+https://www.analyticsvidhya.com/blog/2015/10/recommendation-engines/
+
+How to Build a Recommender System
+http://blogs.gartner.com/martin-kihn/how-to-build-a-recommender-system-in-python/
+
+Capstone Projects – Great Lakes Business Analytics Program
+https://www.analyticsvidhya.com/blog/2015/08/capstone-project-great-lakes-business-analytics-program/
+
+Quick Guide to Build a Recommendation Engine in Python
+https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/
+
+Exploring Recommendation System (with an implementation model in R)
+https://www.analyticsvidhya.com/blog/2016/03/exploring-building-banks-recommendation-system/
+
+Effective Cross Selling using Market Basket Analysis
+https://www.analyticsvidhya.com/blog/2014/08/effective-cross-selling-market-basket-analysis/
+Visualizing product relationships in a market Basket analysis
+https://www.analyticsvidhya.com/blog/2014/08/visualizing-market-basket-analysis/
+
+
+@@@@@@@@@@@@@@ Student's projects : @@@@@@@@@@@@@@@@@
+CS51 2015 Final Project
+Movie Recommendation System:
+Implementation of the k-Means Clustering Algorithm with the MovieLens Database
+https://www.youtube.com/watch?v=zdT4KhyOT8k
+
+Recommendation Engine in JAVA
+https://www.youtube.com/watch?v=rZPuRK7Ob1E
+
+ML Final Project - The movie recommender system by Weilin Zhang
+https://www.youtube.com/watch?v=ghf8iU0kgck
+
+

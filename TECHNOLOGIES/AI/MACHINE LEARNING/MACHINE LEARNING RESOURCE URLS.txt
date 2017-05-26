@@ -1,0 +1,29 @@
+A Friendly Introduction to Machine Learning
+https://www.youtube.com/watch?v=IpGxLWOIZy4
+
+Machine Learning (Stanford)
+Lecture by Professor Andrew Ng for Machine Learning (CS 229) in the Stanford Computer Science department. 
+https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599
+https://www.youtube.com/watch?v=UzxYlbK2c7E
+
+CS229 Machine Learning Autumn 2016 by Professor Andrew Ng
+http://cs229.stanford.edu/
+
+CS 229 Machine Learning Final Projects, Spring 2016
+http://cs229.stanford.edu/projects2016spr.html
+
+Intro to Machine Learning
+https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH
+
+Introduction to Deep Learning and Self-Driving Cars by Lex Fridman
+https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA
+
+Machine Learning APIs by Example (Google Cloud Next '17)
+https://www.youtube.com/watch?v=w1xNTLH1zlA
+
+Architecting Predictive Algorithms for Machine Learning
+https://www.youtube.com/watch?v=KoQdAdxjnoU
+
+TensorFlow and Deep Learning without a PhD, Part 1\2 (Google Cloud Next '17)
+https://www.youtube.com/watch?v=u4alGiomYP4
+https://www.youtube.com/watch?v=fTUwdXUFfI8
