@@ -1,0 +1,16 @@
+Master Recommender Systems
+https://fmovies.to/film/chance.ll883/qnn1n3
+
+Recommender Systems
+Master Recommender Systems. Learn to design, build, and evaluate recommender systems for commerce and content.
+https://www.coursera.org/specializations/recommender-systems
+1)Introduction to Recommender Systems: Non-Personalized and Content-Based
+https://www.coursera.org/learn/recommender-systems-introduction/home/welcome
+2)Nearest Neighbor Collaborative Filtering
+https://www.coursera.org/learn/collaborative-filtering/home/welcome
+Recommender Systems: Evaluation and Metrics
+https://www.coursera.org/learn/recommender-metrics/home/welcome
+Matrix Factorization and Advanced Techniques (IN FUTURE)
+https://www.coursera.org/learn/matrix-factorization
+Recommender Systems Capstone (IN FUTURE)
+https://www.coursera.org/learn/recommeder-systems-capstone

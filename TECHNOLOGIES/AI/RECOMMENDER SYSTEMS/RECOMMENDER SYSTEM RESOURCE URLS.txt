@@ -25,18 +25,26 @@ https://www.youtube.com/watch?v=ZKA0sieMtE0
 
 
 ------------------ ARTICLES --------------------------------------------
+A Collaborative Filtering Recommendation System in Java
+http://www.baeldung.com/java-collaborative-filtering-recommendations
+
+Slope One
+https://en.wikipedia.org/wiki/Slope_One
+
 How can I start building a recommendation engine?
 https://www.quora.com/How-can-I-start-building-a-recommendation-engine
 
 How do I code a simple recommendation system in Java using Eclipse?
 https://www.quora.com/How-do-I-code-a-simple-recommendation-system-in-Java-using-Eclipse
 
-
 Understanding basics of Recommendation Engines (with case study)
 https://www.analyticsvidhya.com/blog/2015/10/recommendation-engines/
 
 How to Build a Recommender System
 http://blogs.gartner.com/martin-kihn/how-to-build-a-recommender-system-in-python/
+
+The Recommender Problem Revisited
+https://www.slideshare.net/xamat/recsys-2014-tutorial-the-recommender-problem-revisited
 
 Capstone Projects – Great Lakes Business Analytics Program
 https://www.analyticsvidhya.com/blog/2015/08/capstone-project-great-lakes-business-analytics-program/
