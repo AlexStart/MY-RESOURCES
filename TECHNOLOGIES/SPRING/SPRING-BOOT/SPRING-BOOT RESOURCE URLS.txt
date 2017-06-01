@@ -1,2 +1,8 @@
 Spring Boot Related Topics
 http://www.dineshonjava.com/2017/01/microservices-with-spring-boot.html
+
+Customizing Spring Boot Auto Configuration
+http://www.dineshonjava.com/2016/07/customizing-spring-boot-auto-configuration.html
+Logging Configuration in Spring Boot
+http://www.dineshonjava.com/2016/07/logging-configuration-in-spring-boot.html
+
