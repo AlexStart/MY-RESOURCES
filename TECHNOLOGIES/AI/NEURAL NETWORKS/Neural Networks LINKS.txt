@@ -1,0 +1,28 @@
+Michael Nielsen
+http://michaelnielsen.org/
+https://twitter.com/michael_nielsen
+
+Neural Networks and Deep Learning books
+http://neuralnetworksanddeeplearning.com/index.html
+CHAPTER 1
+Using neural nets to recognize handwritten digits
+http://neuralnetworksanddeeplearning.com/chap1.html
+
+@@@@@@@@@@@@@@ Neural Networks for Machine Learning от Торонтский университет @@@@@@@@@@@@@@@@@@@
+Neural Networks for Machine Learning от Торонтский университет
+https://www.coursera.org/learn/neural-networks/home/welcome
+
+
+An Introduction to Neural Networks in Java
+http://www.informit.com/articles/article.aspx?p=30596&seqNum=4
+
+Introduction to Artificial Neural Networks - Part 1
+http://www.theprojectspot.com/tutorial-post/introduction-to-artificial-neural-networks-part-1/7
+
+Mind: How to Build a Neural Network (Part One)
+https://stevenmiller888.github.io/mind-how-to-build-a-neural-network/
+Mind: How to Build a Neural Network (Part Two)
+http://stevenmiller888.github.io/mind-how-to-build-a-neural-network-part-2/
+
+SimpleNeuralNetwork
+https://github.com/jlmd/SimpleNeuralNetwork/tree/master/src/com/jlmd/simpleneuralnetwork/neuralnetwork
