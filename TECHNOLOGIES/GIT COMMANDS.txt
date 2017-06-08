@@ -1,0 +1,80 @@
+git@github.com:AlexStart/test-repo.git
+
+================== How to upload a local project to Github ===============================
+How to upload a local project to Github
+https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github
+Adding an existing project to GitHub using the command line
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+#Add the files in your new local repository. This stages them for the first commit.
+$ git init
+
+# Adds the files in the local repository and stages them for commit. 
+$ git add . ($ git add Readme.md)
+
+# Commit the files that you've staged in your local 
+#Commits the tracked changes and prepares them to be pushed to a remote repository.
+$ git commit -m "First commit"
+
+# At the top of your GitHub repository's Quick Setup page, click to copy the remote repository URL.
+# Sets the new remote repository
+$ git remote add origin git@github.com:AlexStart/test-repo.git
+
+# Pushes the changes in your local repository up to the remote repository you specified as the origin.
+$ git push -f origin master OR git push -u origin master
+
+# see what your repo is linked to
+$ git remote -v
+
+# To unstage a file, use 
+$ git reset HEAD YOUR-FILE
+
+# To remove this commit and modify the file, use 
+$ git reset --soft HEAD~1
+# and commit and add the file again.
+
+================= "Delete this repository" ===================
+# command to remove a remote URL from your repository.
+$ git remote rm destination
+
+# How to delete remote repository on github?
+https://stackoverflow.com/questions/23914342/how-to-delete-remote-repository-on-github
+
+Go to the settings page of your repo and the bottom you can find the "Delete this repository" button under the Danger Zone area. 
+Enter your repository name to confirm the deletion and click "I understand the consequences, delete this repository" to confirm the operation. 
+The url will endup like below if you visit the settings page of you repository,
+
+https://github.com/GITHUB_USERNAME/REPOSITORY_NAME/settings
+For example, if your name is john and have a repository named "sample_john" the url would look like this,
+
+https://github.com/john/sample_john/settings
+Warning: Doing the above operation will permanently delete your repository, wiki, issues, and comments, and remove all collaborator associations.
+
+
+========================
+# to create a new local branch, do:
+$ git branch <branch-name> OR git checkout -b <branch-name>
+# both create a branch but checkout switch to the new branch
+
+# You can set this up by default by doing:
+$ git branch -u github/master master
+# which will allow you to do a git push from master without specifying the remote or branch.
+
+# To push it to the remote repository, do:
+$ git push -u origin <branch-name>
+
+$ git push -u origin HEAD
+# Using HEAD is a "handy way to push the current branch to the same name on the remote". 
+# HEAD (in uppercase) is a reference to the top of the current branch (tree).
+
+# you can even short the push command by inserting this command line one time only:
+git config --global push.default simple
+# So next time instead of using git push origin master you just need:
+git push
+
+=============================================
+change the directory to c drive by typing 
+$ cd ~
+$ cd /c
+show you the folders there
+$ ls
