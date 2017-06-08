@@ -12,6 +12,32 @@ http://cs229.stanford.edu/
 CS 229 Machine Learning Final Projects, Spring 2016
 http://cs229.stanford.edu/projects2016spr.html
 
+@@@@@@@@@@@@ CPSC 340 Machine Learning and Data Mining (University of British Columbia) @@@@@@@@@@@@@@
+CPSC 340 Machine Learning and Data Mining - Course taught in 2013 at UBC by Nando de Freitas
+undergraduate machine learning at UBC 2012
+https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf
+Lectures
+http://www.cs.ubc.ca/~nando/340-2012/lectures.php
+
+Machine Learning 2013 - Course taught in 2013 at UBC by Nando de Freitas
+https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6
+Machine Learning Lectures
+http://www.cs.ubc.ca/~nando/540-2013/lectures.html
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@@@@@@ Artificial Intelligence bt MIT OpenCourseWare @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Artificial Intelligence
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
+Video lectures
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Introduction to Machine Learning by Department of Computer Science and Operations Research, University of Montreal 
+http://videolectures.net/deeplearning2015_vincent_machine_learning/
+
+
 Intro to Machine Learning
 https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH
 

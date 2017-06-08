@@ -1,0 +1,29 @@
+@@@@@@@@@@@@@@@@ Microservices @@@@@@@@@@@@@@@@@@@@@
+
+----------- Martin Fowler ----------------
+Microservices by Martin Fowler
+https://martinfowler.com/articles/microservices.html
+
+------------- NGINX -----------------
+Introduction to Microservices
+https://www.nginx.com/blog/introduction-to-microservices/
+
+------------ Microservices.io ---------------
+Articles about microservices
+http://microservices.io/articles/index.html
+Microservice Architecture
+http://microservices.io/index.html
+
+Event-driven microservices
+http://eventuate.io/whyeventdriven.html
+Eventuate example applications
+http://eventuate.io/exampleapps.html
+Todo List example application
+https://github.com/eventuate-examples/eventuate-examples-java-spring-todo-list
+eventuate-examples-restaurant-management
+https://github.com/eventuate-examples/eventuate-examples-restaurant-management
+the money transfer application
+https://github.com/cer/event-sourcing-examples
+
+
+---------------------------------------------------------------------------------------
