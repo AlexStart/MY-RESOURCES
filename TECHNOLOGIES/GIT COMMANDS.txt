@@ -1,4 +1,5 @@
-git@github.com:AlexStart/test-repo.git
+git@github.com:AlexStart/thegreattool.git
+https://github.com/AlexStart/thegreattool.git
 
 ================== How to upload a local project to Github ===============================
 How to upload a local project to Github
@@ -18,7 +19,9 @@ $ git commit -m "First commit"
 
 # At the top of your GitHub repository's Quick Setup page, click to copy the remote repository URL.
 # Sets the new remote repository
-$ git remote add origin git@github.com:AlexStart/test-repo.git
+$ git remote add origin git@github.com:AlexStart/thegreattool.git
+$ git remote add origin https://github.com/AlexStart/thegreattool.git
+$ git remote add origin http://gladivs@borr.sam-solutions.net/jcc/thegreattool.git
 
 # Pushes the changes in your local repository up to the remote repository you specified as the origin.
 $ git push -f origin master OR git push -u origin master
@@ -32,6 +35,13 @@ $ git reset HEAD YOUR-FILE
 # To remove this commit and modify the file, use 
 $ git reset --soft HEAD~1
 # and commit and add the file again.
+
+======================= pull ===================
+# Please specify which branch you want to merge with.
+$ git pull <remote> <branch>
+
+# If you wish to set tracking information for this branch you can do so with:
+$ git branch --set-upstream-to=origin/<branch> master
 
 ================= "Delete this repository" ===================
 # command to remove a remote URL from your repository.

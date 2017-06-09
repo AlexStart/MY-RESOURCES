@@ -1,0 +1,6 @@
+MySQL: уровни изоляции транзакций
+https://habrahabr.ru/post/135217/
+Блокировки и уровни изоляции транзакций InnoDB в MySQL
+https://habrahabr.ru/post/238513/
+Уровни изоляции транзакций с примерами
+https://habrahabr.ru/post/317884/

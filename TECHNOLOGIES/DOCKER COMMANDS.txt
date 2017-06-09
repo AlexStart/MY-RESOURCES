@@ -1,0 +1,315 @@
+
+
+@@@@@@@@@@@@@@@@@ JENKINS @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+http://jenkins-le-guide-complet.github.io/html/sect-windows-service.html#fig-hudson-java-web-start
+Start Jenkins
+C:\jenkins>java -jar jenkins.war
+
+Installing Jenkins as a Windows service
+
+C:\Jenkins>jenkins.exe install
+
+Here you can configure (or reconfigure) ports, JVM options, an the Jenkins work directory. In the following example, we give Jenkins a bit more memory and get it to run on port 8081:
+
+<service>
+			<id>jenkins</id>
+			<name>Jenkins</name>
+			<description>This service runs the Jenkins continuous integration system
+			</description>
+			<env name="JENKINS_HOME" value="D:\jenkins" />
+			<executable>java</executable>
+			<arguments>-Xrs -Xmx512m
+			-Dhudson.lifecycle=hudson.lifecycle.WindowsServiceLifecycle
+			-jar "%BASE%\jenkins.war" --httpPort=8081
+			--ajp13Port=8010</arguments>
+			</service>
+Finally, if you need to uninstall the Jenkins service, you can do one of two things. The simplest is to run the Jenkins executable with the uninstall option:
+
+C:\jenkins>jenkins.exe uninstall
+		
+The other option is to use the Windows service tool sc :
+
+C:>sc delete jenkins
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@ MySQL Docker Containers: Understanding the basics @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+MySQL Docker Containers: Understanding the basics
+https://severalnines.com/blog/mysql-docker-containers-understanding-basics
+
+run it again in detach mode (running as background):
+$ docker run --detach --name=test-mysql --env="MYSQL_ROOT_PASSWORD=mypassword" mysql
+$ docker run --detach -p 3306:3306 --name mysqlserver -e MYSQL_ROOT_PASSWORD=root -d mysql
+a6b09a8d332a16e008cb3035ffd36bcd664886b79c9d2533c3dc1d47026a33a0
+
+Let’s verify the status of the container:
+$ docker ps
+CONTAINER ID        IMAGE               COMMAND                CREATED             STATUS              PORTS               NAMES
+83285aa548ba        mysql:latest        "docker-entrypoint.s   4 minutes ago       Up 4 minutes        3306/tcp            test-mysql
+
+retrieve the IP address of that container in order to access it. Run the inspect command:
+$ docker inspect test-mysql
+Lookup the “IPAddress” line:
+"IPAddress": "172.17.0.20",
+
+Use the following command to see what happened during the container startup:
+$ docker logs test-mysql
+
+Whenever a container is restarted, you will get a new IP address. 
+get a new IP address being assigned by Docker:
+$ docker stop test-mysql
+$ docker start test-mysql
+$ docker inspect test-mysql | grep IPAddress
+        "IPAddress": "172.17.0.21",
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@ Mongo Docker Containers: Understanding the basics @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Dockerize MongoDB
+https://docs.docker.com/engine/examples/mongodb/
+http://people.oregonstate.edu/~siddonj/site/wordpress/2016/05/22/getting-started-with-docker-node-and-mongo/
+
+run it again in detach mode (running as background):
+$ docker run --detach --name=mongoserver mongo
+$ docker run --detach -p 27017:27017 --name mongoserver -d mongo
+a6b09a8d332a16e008cb3035ffd36bcd664886b79c9d2533c3dc1d47026a33a0
+
+starts a Postgres server and MongoDB server as follows:
+docker run -p 80:80 -p 27017:27017 dockertest
+ * Starting PostgreSQL 9.3 database server
+  ...done.
+ * Starting database mongodb
+  ...done.
+
+@@@@@@@@@@@@@@@@@@@ DOCKER @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+===================== Docker ==============================================
+Ïîíèìàÿ Docker
+https://habrahabr.ru/post/253877/
+MySQL Docker Containers: Understanding the basics
+https://severalnines.com/blog/mysql-docker-containers-understanding-basics
+MySQL on Docker: Building the Container Image
+https://severalnines.com/blog/mysql-docker-building-container-image
+Docker Explained: Using Dockerfiles to Automate Building of Images
+https://www.digitalocean.com/community/tutorials/docker-explained-using-dockerfiles-to-automate-building-of-images
+Docker and Dockerfiles Made Easy!
+https://www.sitepoint.com/docker-and-dockerfiles-made-easy/
+How to start with Docker
+https://blog.harbur.io/how-to-start-with-docker-3fd95eed8898
+How to Manually Build Docker Containers for WordPress
+https://www.sitepoint.com/how-to-manually-build-docker-containers-for-wordpress/
+
+
+Docker Machine is a tool that lets you install Docker Engine on virtual hosts, and manage the hosts with docker-machine commands. 
+You can use Machine to create Docker hosts on your local Mac or Windows box, or on remote servers.
+The toolbox installs a handful of tools on your local Windows
+* Docker Machine: To deploy virtual machines that run Docker Engine
+* VirtualBox: To host the virtual machines deployed from Docker Machine
+
+
+Docker Toolbox is an installer for quick setup and launch of a Docker environment on older Mac and Windows systems that do not meet the requirements of the new Docker for Mac and Docker for Windows apps.
+Docker Toolbox provides a way to use Docker on older Windows systems that do not meet minimal system requirements for the Docker for Windows app.
+
+Install Docker for Windows
+https://docs.docker.com/docker-for-windows/install/#start-docker-for-windows
+
+Get started with Docker for Windows
+https://docs.docker.com/docker-for-windows/
+
+Install Docker Toolbox on Windows
+https://docs.docker.com/toolbox/toolbox_install_windows/
+
+MySQL on Docker: Building the Container Image
+https://severalnines.com/blog/mysql-docker-building-container-image
+
+@@@@@@@@@@@@@@@ DOCKER COMMANDS @@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+$ docker help run (docker help COMMAND)
+$ docker version
+$ docker info
+$ docker-compose --version
+docker-compose version 1.13.0, build 1719ceb
+$ docker-machine --version
+docker-machine version 0.10.0, build 76ed2a6
+
+You can list the existing machines:
+$ docker-machine ls
+
+Stop the VM named default:
+$ docker-machine stop default
+You can destroy the VM named default:
+$ docker-machine rm default
+
+--see that our new image is ready:
+$ docker images
+--Verify if the container is running:
+$ docker ps
+
+show all containers (including the non-running ones):
+$ docker ps -a
+
+--let’s pull the MySQL image of our choice to the machine host:
+$ docker pull mysql:5.6
+
+-t = (tag )Build an image from a Dockerfile
+$ docker build -t docker-git .
+
+--name = Assign a name to the container
+$ docker run --name git 
+
+Create a new image from a container’s changes
+$ docker commit git docker-git
+
+rmi = Remove one or more images
+$ docker rmi docker-git
+
+rm = Remove one or more containers
+$ docker rm git
+
+rm -f = just force remove container:
+$ docker rm -f wordpressdb
+
+--rm = Automatically remove the container when it exits
+$ docker run --rm
+
+logs = show log info of container:
+$ docker logs wordpressdb
+
+-it = This param tells Docker to run our image and create a psuedo-TTY connected to the container’s stdin as well as create a bash shell. 
+Basically it makes it accessible from the command line like we would normally see running our node app with “npm start” or similar.
+$ docker run -it --rm --name running-node-app my-node-app
+
+exec = Allows us to run commands “ps -ax” against our specified Docker container “running-node-app”. This is going to list all of the running processes in our ‘running-node-app’ container.
+$ docker exec running-node-app ps -ax
+
+!!!!!!!!!!!!!!!!!!!!! use Dockerfiles to create personalized images and Docker compose to manage our containers. !!!!!!!!!!!!!!!!!!!!!!!
+
+---------------- Dockerfile -----------------------------------
+Let’s start by creating a directory to place the Dockerfile:
+$ mkdir -p ~/docker/severalnines/mysql-pxb
+$ cd ~/docker/severalnines/mysql-pxb
+
+Create a new file called Dockerfile:
+$ vim Dockerfile
+
+We can now build a new image from this Dockerfile:
+$ docker build --rm=true -t severalnines/mysql-pxb:5.6 .
+
+take a look on what we have now:
+$ docker images
+
+$ docker-machine ip default
+192.168.99.100
+$ docker-machine ip shopapp-mysql
+
+$ docker-machine env default
+
+$ docker inspect CONTAINER_ID
+
+$ docker run -p 3306:3306 --name mysqlserver -e MYSQL_ROOT_PASSWORD=root -d mysql
+$ docker run --name some-mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=<password> -d mysql:latest
+$ docker run -p 3306:3306 --name shopapp-mysql -e MYSQL_ROOT_PASSWORD=myRootpwd32 -d mysql:5.7
+
+==== The -e option lets you set an environment variable on the container creation. In this case, 
+the MYSQL_ROOT_PASSWORD will tell the MySQL installation process to use the password we specified in the command.
+Now if you want to connect to the database from outside, you can use the address returned from the docker-machine ip docker-vm command 
+and the exposed port on the docker run command. My database configuration will look like the following. ======
+
+---------------------------- Virtual Machine ---------------------------------------------
+----- I lookup the IP of the VM in which the container is running, like this:
+$ docker-machine ls
+NAME      ACTIVE   DRIVER       STATE     URL                         SWARM   DOCKER    ERRORS
+default   *        virtualbox   Running   tcp://192.168.99.100:2376           v1.11.2
+
+Get the VM's IP info
+$ docker-machine env
+
+Get the name of the VM running docker daemon
+$ docker-machine ls
+
+____________________________________________________________________________________________
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Just find the forwarded port with:
+$ docker port shopapp-mysql 3306
+0.0.0.0:32768
+
+And your docker machine IP with:
+$ docker-machine ip
+192.168.99.100
+
+Now point your mysql client to (example): 192.168.99.100:32768
+
+Note: The 3306 port needs to be exposed, which from your docker ps I can see it is not.
+
+$$$$$$$$$$$$$$$$ docker-compose.yml $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+docker-compose.yml file looks like:
+db:
+  image: mysql
+  environment:
+    MYSQL_ROOT_PASSWORD: ""
+    MYSQL_ALLOW_EMPTY_PASSWORD: yes
+  ports:
+    - "3306:3306"
+
+start the container is: 
+$ docker-compose run
+
+In that case the port mapping section of the docker-compose.yml file is ignored. 
+To have the port mapping section considered, you have to add the --service-ports option:
+
+$ docker-compose run --service-ports db
+
+Using 
+$ docker-compose up
+# bring up one docker container
+$ docker-compose up -d
+
+Since you published port 3306 on your docker host, 
+from that host itself you would connect to 127.0.0.1:3306.
+
+!!!!!!!!!!! you want to run 5 containers of docker-whale !!!!!!!!!!!!!!!!!!
+
+docker-compose.yml
+
+docker-whale:
+  image: docker-whale
+
+Then inside same folder run:
+
+docker-compose up -d
+docker-compose scale docker-whale=5
+
+!!!!!!!!!!!! docker-compose.yaml COMMANDS !!!!!!!!!!!!!!!!!!!!!!
+You could put this docker-compose.yaml next to your Dockerfile:
+version: '2'
+services:
+  docker-whale:
+    image: docker-whale
+    build: .
+And then execute the following commands:
+
+# build docker image
+docker-compose build
+
+# bring up one docker container
+docker-compose up -d
+
+# scale up to three containers
+docker-compose scale docker-whale=3
+
+# overview about these containers
+docker-compose ps
+
+# view combined logs of all containers
+# use <ctrl-c> to stop viewing
+docker-compose logs --follow
+
+# take down all containers
+docker-compose down
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+
+

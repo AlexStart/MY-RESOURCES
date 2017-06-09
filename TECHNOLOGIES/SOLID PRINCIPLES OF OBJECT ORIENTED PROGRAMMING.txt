@@ -1,0 +1,4 @@
+SOLID PRINCIPLES OF OBJECT ORIENTED PROGRAMMING
+https://springframework.guru/solid-principles-object-oriented-programming/
+https://springframework.guru/principles-of-object-oriented-design/dependency-inversion-principle/
+https://springframework.guru/gang-of-four-design-patterns/chain-of-responsibility-pattern/
