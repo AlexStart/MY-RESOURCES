@@ -1,3 +1,19 @@
+!!!! Leap From Developer To Machine Learning Practitioner !!!!!
+http://machinelearningmastery.com/machine-learning-for-programmers/
+5 Mistakes Programmers Make when Starting in Machine Learning
+http://machinelearningmastery.com/mistakes-programmers-make-when-starting-in-machine-learning/
+
+!!!Practical Machine Learning Tutorial with Python Introduction!!!
+https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
+
+Hacker's guide to Neural Networks
+http://karpathy.github.io/neuralnets/
+
+An Introduction to Machine Learning Theory and Its Applications: A Visual Tutorial with Examples
+https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
+A Deep Learning Tutorial: From Perceptrons to Deep Networks
+https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
+
 A Friendly Introduction to Machine Learning
 https://www.youtube.com/watch?v=IpGxLWOIZy4
 

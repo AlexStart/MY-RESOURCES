@@ -1,0 +1,5 @@
+Python 3 Programming Introduction Tutorial
+https://pythonprogramming.net/introduction-to-python-programming/
+
+!!!Practical Machine Learning Tutorial with Python Introduction!!!
+https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
