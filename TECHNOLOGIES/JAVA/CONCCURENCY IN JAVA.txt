@@ -1,0 +1,30 @@
+Java Memory Model
+How does Java (JVM) allocate stack for each thread
+https://stackoverflow.com/questions/36898701/how-does-java-jvm-allocate-stack-for-each-thread
+Java Memory Model. Что такое Heap и Stack память в Java?
+http://begoml.by/java-memory-model/
+Java Memory Model вкратце
+http://www.javaspecialist.ru/2011/06/java-memory-model.html
+Модель памяти в примерах и не только
+https://habrahabr.ru/post/133981/
+
+============ Java thread stack ==================
+http://www.javaspecialist.ru/2011/04/java-thread-stack.html
+Java Virtual Machine thread has a private Java Virtual Machine stack, created at the same time as the thread.
+you may run out of memory (not meaning heap memory!) if you allocate too many threads.
+Данная память выделяется каждому созданному потоку в индивидуальное пользование. Там хранится стек вызова методов, 
+локальные переменные и параметры. Тут я дам небольшое пояснение, так как было время, когда я сам в этом немного путался. 
+Если вы создаете и присваиваете локальную переменную примитивного типа, то все данные полностью хранятся на стеке. 
+Если же вы создаете объект, то ссылка хранится на стеке, сам же объект уже создается в куче. При создании массива примитивных типов 
+происходит то же самое что и с объектами: ссылка на массив храниться на стеке, а сам массив в куче. 
+Однако начиная с Java 6 Update 14 можно включить так называемый Escape-Analysis, который будет размещать объекты не покидающие метода тоже 
+на стеке. 
+Сделать это можно выставив параметр -XX:+DoEscapeAnalysis. Но он будет работать только в -server моде.
+Размер стека выделяемого потоку по умолчанию можно поменять параметром JVM -Xss. Либо при создании конкретного потока 
+передать параметр в конструкторе Thread(ThreadGroup group, Runnable target, String name,long stackSize). 
+
+============= thread dump =================================
+Под windows вы можете использовать программку SendSignal.Так же получить thread dump можно через JMX, как через API так и через JConsole. 
+Правда тут есть небольшое неудобство, 
+так как результаты попадут в stdout и там будут перечислены стеки всех ваших потоков, которых может быть тысячи. 
+
