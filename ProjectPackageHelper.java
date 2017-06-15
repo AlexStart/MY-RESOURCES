@@ -12,7 +12,7 @@ import static java.util.Objects.isNull;
 public final class ProjectPackageHelper {
 
     private static final String ARTIFACT_REGEX = "[a-z0-9_\\-.]+";
-    private static final String BASE_PACKAGE_PATTERNT = ARTIFACT_REGEX.replace("-", "");
+    private static final String BASE_PACKAGE_PATTERNT = ARTIFACT_REGEX.replace("\\-.", "");
     private static final Pattern FULL_PACKAGE_PATTERNT = Pattern.compile(BASE_PACKAGE_PATTERNT + "(\\." + BASE_PACKAGE_PATTERNT + ")*");
 
     private static Set<String> keywords;
@@ -97,7 +97,7 @@ public final class ProjectPackageHelper {
         return true;
     }
 
-    private static String getValidProjectPackage(String identifier) {
+    public static String getValidProjectPackage(String identifier) {
         String trimmedIdentifier = isNull(identifier) ? identifier.trim().toLowerCase() : null;
         StringBuilder strBuilder = new StringBuilder();
         String[]parts = trimmedIdentifier.split("\\.", -1) ;
@@ -116,7 +116,7 @@ public final class ProjectPackageHelper {
         if (isNull(identifier)) {
             return false;
         }
-        if (!identifier.matches(ARTIFACT_REGEX)) {
+        if (!FULL_PACKAGE_PATTERNT.matcher(identifier).matches()) {
             return false;
         }
         if(isNameKeyword(identifier)) {
@@ -129,7 +129,7 @@ public final class ProjectPackageHelper {
         StringBuilder strBuilder = new StringBuilder();
         for(int i=0; i<identifier.length(); i++){
             char c = identifier.charAt(i);
-            if(!"-".equals(c)){
+            if(String.valueOf(c).matches(BASE_PACKAGE_PATTERNT)){
                 strBuilder.append(c);
             }
         }
