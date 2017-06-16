@@ -1,0 +1,33 @@
+The Shortlist of Docker Hosting
+https://blog.codeship.com/the-shortlist-of-docker-hosting/
+
+The 4 Best Docker Hosting Services
+https://cloudacademy.com/blog/the-4-best-docker-hosting-services/
+
+ARUKAS CLOUDis DOCKER HOSTING
+https://arukas.io/en/
+
+Свой облачный хостинг за 5 минут. Часть 1: Ansible, Docker, Docker Swarm
+https://habrahabr.ru/post/261415/
+
+Docker Cloud
+https://cloud.docker.com/
+https://www.docker.com/pricing
+
+OpenShift: hello, cloud!
+https://habrahabr.ru/post/145289/
+Быстрый старт кастомного docker-контейнера на платформе OpenShift
+https://habrahabr.ru/post/281979/
+Getting any Docker image running in your own OpenShift cluster
+https://blog.openshift.com/getting-any-docker-image-running-in-your-own-openshift-cluster/
+
+CONTAINER ENGINE
+https://cloud.google.com/container-engine/
+
+
+
+
+
+
+
+
