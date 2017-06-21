@@ -5,3 +5,16 @@ http://www.dineshonjava.com/2017/01/microservices-with-spring-boot.html
 Cloud Computing Tutorial
 
 http://www.dineshonjava.com/2014/04/cloud-computing-tutorial.html
+
+
+Testing in Spring Boot
+http://www.baeldung.com/spring-boot-testing
+
+How to write a unit test for a Spring Boot Controller endpoint
+https://stackoverflow.com/questions/29053974/how-to-write-a-unit-test-for-a-spring-boot-controller-endpoint
+
+Spring Boot Rest API Example
+http://websystique.com/spring-boot/spring-boot-rest-api-example/
+
+tutorials/spring-boot/
+https://github.com/eugenp/tutorials/tree/master/spring-boot
