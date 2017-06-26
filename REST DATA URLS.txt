@@ -1,0 +1,40 @@
+!!!! Accessing MongoDB Data with REST !!!!
+https://spring.io/guides/gs/accessing-mongodb-data-rest/
+http://projects.spring.io/spring-data-rest/
+Introduction to Spring Data REST
+http://www.baeldung.com/spring-data-rest-intro
+
+Building a RESTful Web Service with Spring Boot Actuator
+https://spring.io/guides/gs/actuator-service/
+
+!!!Unit Testing Rest Services with Spring Boot and JUnit!!!
+http://www.springboottutorial.com/unit-testing-for-spring-boot-rest-services
+Test a REST API with Java
+http://www.baeldung.com/integration-testing-a-rest-api
+Unit and Integration Tests in Spring Boot
+https://dzone.com/articles/unit-and-integration-tests-in-spring-boot
+
+================= CLEAN CODE =============================================
+!!!! Пособие для будущего Java разработчика. Элегантный код !!!
+https://dou.ua/lenta/articles/java-beginner-guide-2/
+
+===========================================================================
+
+!!!!Spring Boot Rest API Example!!!
+http://websystique.com/spring-boot/spring-boot-rest-api-example/
+Spring MVC 4 RESTFul Web Services CRUD Example+RestTemplate
+http://websystique.com/springmvc/spring-mvc-4-restful-web-services-crud-example-resttemplate/
+
+Building a Hypermedia-Driven RESTful Web Service
+https://spring.io/guides/gs/rest-hateoas/
+Spring Boot: от начала до продакшена 
+https://habrahabr.ru/post/257223/
+Реализуем RESTful Web Service на java
+https://habrahabr.ru/post/150034/
+
+Spring Boot with Docker
+https://spring.io/guides/gs/spring-boot-docker/
+Messaging with Redis
+https://spring.io/guides/gs/messaging-redis/
+
+
