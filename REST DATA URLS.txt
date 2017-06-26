@@ -7,6 +7,11 @@ http://www.baeldung.com/spring-data-rest-intro
 Building a RESTful Web Service with Spring Boot Actuator
 https://spring.io/guides/gs/actuator-service/
 
+RESTful Web services: The basics
+https://www.ibm.com/developerworks/webservices/library/ws-restful/
+
+!!! Writing Integration Tests for Rest Services with Spring Boot !!!
+http://www.springboottutorial.com/integration-testing-for-spring-boot-rest-services
 !!!Unit Testing Rest Services with Spring Boot and JUnit!!!
 http://www.springboottutorial.com/unit-testing-for-spring-boot-rest-services
 Test a REST API with Java
