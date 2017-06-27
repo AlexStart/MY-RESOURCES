@@ -1,0 +1,12 @@
+===========================================================================================================
+If you are sure that the bean is defined for the RestTemplate then use the following to print the beans 
+that are available in the context loaded by spring boot application
+
+ApplicationContext ctx = SpringApplication.run(Application.class, args);
+String[] beanNames = ctx.getBeanDefinitionNames();
+Arrays.sort(beanNames);
+for (String beanName : beanNames) {
+    System.out.println(beanName);
+}
+
+========================================================================================================

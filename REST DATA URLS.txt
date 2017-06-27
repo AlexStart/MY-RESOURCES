@@ -10,6 +10,11 @@ https://spring.io/guides/gs/actuator-service/
 RESTful Web services: The basics
 https://www.ibm.com/developerworks/webservices/library/ws-restful/
 
+======================= Tests in Spring Boot =============================
+!!! Testing DTOs and REST Controllers in Spring Boot !!!
+https://dzone.com/articles/testing-data-transfer-object-and-rest-controllers
+!!!! Integration testing on REST urls with Spring Boot !!!!
+https://blog.jdriven.com/2015/03/integration-testing-on-rest-urls-with-spring-boot/
 !!! Writing Integration Tests for Rest Services with Spring Boot !!!
 http://www.springboottutorial.com/integration-testing-for-spring-boot-rest-services
 !!!Unit Testing Rest Services with Spring Boot and JUnit!!!
@@ -18,6 +23,44 @@ Test a REST API with Java
 http://www.baeldung.com/integration-testing-a-rest-api
 Unit and Integration Tests in Spring Boot
 https://dzone.com/articles/unit-and-integration-tests-in-spring-boot
+
+
+==================================== Microservices ==================================
+
+https://blog.codecentric.de/en/category/architecture/microservices-architecture/
+
+MicroPlode Ц A Microservices Experiment
+https://blog.codecentric.de/en/2015/11/microplode-a-microservices-experiment/
+https://blog.codecentric.de/en/2015/11/microplode-implementing-the-first-microservice/
+ThomasJaspers/microplode-gameservice
+https://github.com/ThomasJaspers/microplode-gameservice/tree/1.0.0
+https://martinfowler.com/articles/microservice-testing/#agenda
+
+!!! Integration testing strategies for Spring Boot microservices !!!
+https://blog.codecentric.de/en/2017/02/integration-testing-strategies-spring-boot-microservices/
+Integration testing strategies for Spring Boot microservices part 2
+https://blog.codecentric.de/en/2017/02/integration-testing-strategies-spring-boot-microservices-part-2/
+MicroPlode Ц Microservices dialogue
+https://blog.codecentric.de/en/2015/12/microplode-microservices-dialogue/
+
+---------------- CQRS ---------------------------------
+CQRS
+https://martinfowler.com/bliki/CQRS.html
+Event Sourcing
+https://martinfowler.com/eaaDev/EventSourcing.html
+CQRS Journey
+https://msdn.microsoft.com/en-us/library/jj554200.aspx
+-------------------------------------------------------
+CQRS and ES with Akka
+https://blog.codecentric.de/en/2016/08/cqrs-es-akka/
+mdonkers/akka-cqrs-es-demo
+https://github.com/mdonkers/akka-cqrs-es-demo
+CQRS and Event Sourcing with Lagom
+https://blog.codecentric.de/en/2017/02/cqrs-event-sourcing-lagom/
+Event Driven Microservices with Spring Cloud Stream
+https://blog.codecentric.de/en/2016/04/event-driven-microservices-spring-cloud-stream/
+---------------------------------------------------------------------------------------------
+
 
 ================= CLEAN CODE =============================================
 !!!! ѕособие дл€ будущего Java разработчика. Ёлегантный код !!!
