@@ -1,0 +1,86 @@
+===================== Rule Engine (Drools) ================================
+Реализация бизнес-логики при помощи процессора правил Drools
+https://www.ibm.com/developerworks/ru/library/j-drools/index.html
+JBoss Drools Tutorial for Beginners
+https://examples.javacodegeeks.com/enterprise-java/jboss-drools-tutorial-beginners/
+Drools Rule Engine Tutorial
+https://examples.javacodegeeks.com/enterprise-java/jboss-drools/drools-rule-engine-tutorial/
+"Drools: декларативная бизнес-логика в Java-приложениях"
+https://www.slideshare.net/AlexTumanoff/odessa-jug-conference
+Rule Engine, или как сделать систему проще
+https://habrahabr.ru/post/142622/
+Data Driven Realtime Rule Engine в Wargaming: сбор данных
+https://habrahabr.ru/company/wargaming/blog/273607/
+Data Driven Realtime Rule Engine в Wargaming: анализ данных. Часть 2
+https://habrahabr.ru/company/wargaming/blog/275705/
+
+===================== Swagger ================================
+What is Swagger?
+https://swagger.io/getting-started/
+Swagger example with JAVA, Spring, Apache CXF and Jackson
+https://sdngeeks.wordpress.com/2014/08/01/swagger-example-with-java-spring-apache-cxf-jackson/
+Swagger: Make Developers Love Working With Your REST API
+https://dzone.com/articles/swagger-make-developers-love
+
+Setting Up Swagger 2 with a Spring REST API
+http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+SWAGGER 2 INTEGRATION WITH SPRING REST
+https://indrabasak.wordpress.com/2016/04/07/swagger-2-integration-with-spring-rest/
+Spring Boot + Swagger2
+http://www.javainuse.com/spring/boot_swagger
+
+3 лучших инструмента для описания RESTful API
+https://habrahabr.ru/post/252237/
+Документирование #микросервисов
+https://habrahabr.ru/post/322460/
+Настройка Swashbuckle (Swagger) для WebAPI
+https://habrahabr.ru/post/317338/
+
+===================== Hazeltcast ================================
+
+Исследуем и тестируем очереди от Hazelcast
+https://habrahabr.ru/post/228445/
+Исследуем и тестируем распределенные вычисления от Hazelcast
+https://habrahabr.ru/post/229149/
+
+Getting Started with Hazelcast
+https://www.javacodegeeks.com/2013/11/getting-started-with-hazelcast.html
+https://dzone.com/articles/getting-started-hazelcast
+Hazelcast Open Source In Memory Data Grid
+https://www.heapcode.com/in-memory-data-grid/
+Hazelcast Java Example
+https://www.heapcode.com/hazelcast-java-example/
+
+Что такое In-Memory Data Grid
+https://habrahabr.ru/post/160517/
+In-memory-data-grid. Масштабируемые хранилища данных
+https://habrahabr.ru/post/126580/
+In-memory-data-grid. Режимы работы, индексы, блокировки
+https://habrahabr.ru/post/126973/
+
+=====================  Liquibase ================================
+Liquibase — это система управления миграциями базы данных.
+
+Управление миграциями БД с Liquibase
+https://habrahabr.ru/post/178665/
+Использование Liquibase без головной боли. 10 советов из опыта реальной разработки 
+https://habrahabr.ru/post/179425/
+
+Managing your Database Migrations using Liquibase
+https://blog.codecentric.de/en/2015/01/managing-database-migrations-using-liquibase/
+liquibase - helloworld example
+http://shengwangi.blogspot.com.by/2016/04/liquibase-helloworld-example.html
+
+
+=====================  Lastic-Search ================================
+Основы Elasticsearch
+https://habrahabr.ru/post/280488/
+Быстрый полнотекстовый поиск ElasticSearch
+https://habrahabr.ru/post/122531/
+Elasticsearch как NoSQL база данных
+https://habrahabr.ru/company/percolator/blog/222765/
+Elastic Search в enterprise-проектах
+https://habrahabr.ru/company/2gis/blog/213765/
+
+Hapik
+

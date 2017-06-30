@@ -10,6 +10,12 @@ https://spring.io/guides/gs/actuator-service/
 RESTful Web services: The basics
 https://www.ibm.com/developerworks/webservices/library/ws-restful/
 
+Doc: Can't issue PATCH request using RestTemplate with SimpleClientHttpRequestFactory
+https://jira.spring.io/browse/SPR-15052
+
+How to convert Java object to / from JSON (Jackson)
+https://www.mkyong.com/java/how-to-convert-java-object-to-from-json-jackson/
+
 ======================= Tests in Spring Boot =============================
 !!! Testing DTOs and REST Controllers in Spring Boot !!!
 https://dzone.com/articles/testing-data-transfer-object-and-rest-controllers
