@@ -1,0 +1,129 @@
+Анализ данных - big data обзор учебников
+https://www.youtube.com/watch?v=6j0Yf1Cg4yE&list=PLUfHxBkkFMSeLd1nd4x_3xYyWh-HVVNoA&index=11
+Анализ данных - машинное обучение - Learning from data Yaser Abu-Mostafa обзор
+https://www.youtube.com/watch?v=NQV7ggGy5wU
+
+============= Андрей Себрант, Яндекс ================
+ЗАПРЕЩЕННЫЙ ЯНДЕКС | ИНТЕРВЬЮ С СЕБРАНТОМ
+https://www.youtube.com/watch?v=8qDIWvNHvRs
+Что такое Big Data и почему это страшно интересно - Андрей Себрант (01.02.2014)
+https://www.youtube.com/watch?v=zsUKYfXjpvo
+Data Science: кому и чем она поможет. Мастер-класс Андрея Себранта
+https://www.youtube.com/watch?v=iz_5rr3wsUU
+Андрей Себрант (Яндекс) — Бизнес в Эпоху Искуственного Интеллекта
+https://www.youtube.com/watch?v=K1xOb5ZfOXk
+Data Science, черные ящики – и почему вам сильно повезло
+https://www.youtube.com/watch?v=zvGeLvWZ7yQ
+Маркетинг в эпоху «черных ящиков» - Андрей Себрант, Яндекс
+https://www.youtube.com/watch?v=OW3P7OTUbRk
+Андрей Себрант (Яндекс) — Бизнес в Эпоху Искуственного Интеллекта
+https://www.youtube.com/watch?v=K1xOb5ZfOXk
+
+============== Hadoop (Технострим Mail.Ru Group) ====================
+Hadoop (осень 2014)
+https://www.youtube.com/playlist?list=PLrCZzMib1e9rPxMIgPri9YnOpvyDAL9HD
+Hadoop. Введение в Big Data и MapReduce
+https://www.youtube.com/watch?v=8tzCrau5JuE
+Hadoop. Основы
+https://www.youtube.com/watch?v=Rr-tBaFPEZY
+
+============== Малый ШАД ==============================
+001. Малый ШАД - Что такое Big Data и почему это страшно интересно - Андрей Себрант
+https://www.youtube.com/watch?v=TEHdfPa1eJA
+020. Малый ШАД - Машинное обучение и анализ данных - Александр Фонарев
+https://www.youtube.com/watch?v=utP5kqDEjao
+021. Малый ШАД - Что такое машинное обучение и наука о данных? - Александр Фонарев
+https://www.youtube.com/watch?v=5mCMg-hFXKM
+023. Малый ШАД - Нейронные сети - Константин Лахман
+https://www.youtube.com/watch?v=PTS3bHZ7Y5I
+
+
+============= THE BEST LECTURES AND LCOURSES ===========================
+
+Академия Яндекса
+https://www.youtube.com/channel/UCTUyoZMfksbNIHfWJjwr5aQ
+
+Computer Science Center
+https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw
+
+Технострим Mail.Ru Group
+https://www.youtube.com/user/TPMGTU
+
+Лятучы ўніверсітэт
+https://www.youtube.com/channel/UCC4qfNRIDLYSvyU1D5E5sgw
+Курс "Анализ данных: реальный мир на языке математики" 
+https://www.youtube.com/watch?v=7KinHh0XocA
+
+Volodya Mozhenkov
+https://www.youtube.com/user/VladimirMozhenkov
+
+============== Science Channels =====================
+
+------- TED-Ed -------------------
+https://www.youtube.com/user/TEDEducation
+Before and After Einstein
+https://www.youtube.com/playlist?list=PLJicmE8fK0EgnWzPUgQ4D1_oLuye0wc2Z
+
+----- Tech Insider (with subtitles) LIKE TED-Ed) ------
+https://www.youtube.com/channel/UCVLZmDKeT-mV4H3ToYXIFYg
+------- Business Insider UK (with subtitles) LIKE TED-Ed) ----------------
+https://www.youtube.com/channel/UCSm-R5OcwjKSeQZFC6VROVw
+
+------ Business Insider (with subtitles) LIKE TED-Ed) ------
+https://www.youtube.com/user/businessinsider
+
+
+------ SciShow LIKE LIKE TED-Ed) -------------
+https://www.youtube.com/user/scishow
+
+------- The School of Life LIKE TED-Ed) ------
+https://www.youtube.com/user/schooloflifechannel
+
+------ CrashCourse (LIKE TED-Ed) ----
+https://www.youtube.com/user/crashcourse
+Crash Course Computer Science
+https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
+
+---------------------------------------------------
+
+----- Serious Science --------
+https://www.youtube.com/user/SeriousScience
+
+------ Big Think ----------
+https://www.youtube.com/user/bigthink
+
+--------- ScienceToday --------------
+https://www.youtube.com/channel/UC-RqSPZCo49Mr2NEk32nbaA
+
+------ Today I Found Out ------------
+https://www.youtube.com/user/TodayIFoundOut
+
+--------- Vox --------------
+https://www.youtube.com/user/voxdotcom
+
+----- ПостНаука ---------------
+https://www.youtube.com/channel/UCSPd93is2UQsd_jZ6yHBfqQ
+Британские ученые (ПостНаука)
+https://www.youtube.com/playlist?list=PLh6dVTO7f4FbXrR08EgzKufs25y8cgnWW
+Гравитация — Сэр Мартин Риc (Британские ученые (ПостНаука))
+https://www.youtube.com/watch?v=uZjcYH5Qqsw
+Математика и интуиция - Алексей Семихатов (ПостНаука)
+https://www.youtube.com/watch?v=l8tGfLcn3i0
+Современная физика. Теория всего (рассказывает физик Алексей Семихатов) (ПостНаука)
+https://www.youtube.com/watch?v=JcAWsmGbqzo
+
+------- Лекториум --------
+https://www.youtube.com/user/OpenLektorium
+
+============= ПСИХОЛОГИЯ ==================
+Бегущий Банкир
+https://www.youtube.com/channel/UCqVKtuYmKkVPaBeNFWRxlMw
+
+True Gym
+https://www.youtube.com/channel/UCkrbi2bmw7DQuuC8k4TP-QA
+
+======= Игорь Клейнер ===========
+Игорь Клейнер
+https://www.youtube.com/channel/UCqj7Cz7revf5maW9g5pgNcg
+
+

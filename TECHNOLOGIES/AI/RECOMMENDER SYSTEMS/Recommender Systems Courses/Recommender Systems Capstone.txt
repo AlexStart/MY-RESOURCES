@@ -1,0 +1,16 @@
+Специализация Recommender Systems
+Master Recommender Systems. Learn to design, build, and evaluate recommender systems for commerce and content.
+https://www.coursera.org/specializations/recommender-systems
+
+Introduction to Recommender Systems: Non-Personalized and Content-Based
+https://www.coursera.org/learn/recommender-systems-introduction/home/week/1
+https://www.coursera.org/learn/recommender-systems-introduction/lecture/0ExG1/intro-to-recommender-systems
+
+Nearest Neighbor Collaborative Filtering
+https://www.coursera.org/learn/matrix-factorization/home/welcome
+
+Recommender Systems: Evaluation and Metrics
+https://www.coursera.org/learn/recommender-metrics/home/welcome
+
+Matrix Factorization and Advanced Techniques
+https://www.coursera.org/learn/matrix-factorization/home/welcome
