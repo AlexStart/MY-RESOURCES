@@ -1,0 +1,12 @@
+========== Spring Data REST ==============
+Introduction to Spring Data REST
+http://www.baeldung.com/spring-data-rest-intro
+
+Spring Data MongoDB Tutorial
+http://www.baeldung.com/spring-data-mongodb-guide
+
+Introduction to Spring Data MongoDB
+http://www.baeldung.com/spring-data-mongodb-tutorial
+
+AngularJS CRUD Application with Spring Data REST
+http://www.baeldung.com/angularjs-crud-with-spring-data-rest
