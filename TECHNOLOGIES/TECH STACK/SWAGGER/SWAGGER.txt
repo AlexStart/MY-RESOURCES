@@ -1,0 +1,11 @@
+SPRING BOOT RESTFUL API DOCUMENTATION WITH SWAGGER 2
+https://springframework.guru/spring-boot-restful-api-documentation-with-swagger-2/
+
+Setting Up Swagger 2 with a Spring REST API
+http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+
+Spring Boot + Swagger2
+http://www.javainuse.com/spring/boot_swagger
+
+Spring Boot RESTful API Documentation With Swagger 2
+https://dzone.com/articles/spring-boot-restful-api-documentation-with-swagger
