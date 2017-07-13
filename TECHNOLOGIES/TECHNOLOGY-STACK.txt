@@ -72,15 +72,38 @@ liquibase - helloworld example
 http://shengwangi.blogspot.com.by/2016/04/liquibase-helloworld-example.html
 
 
+
 =====================  Lastic-Search ================================
-Основы Elasticsearch
+
+Основы Elasticsearc
+h
 https://habrahabr.ru/post/280488/
-Быстрый полнотекстовый поиск ElasticSearch
+
+Быстрый полнотекстовый поиск ElasticSearc
+h
 https://habrahabr.ru/post/122531/
+
 Elasticsearch как NoSQL база данных
+
 https://habrahabr.ru/company/percolator/blog/222765/
+
 Elastic Search в enterprise-проектах
+
 https://habrahabr.ru/company/2gis/blog/213765/
+
+
+
+=====================  REST API ========================================
+Build a REST API with Spring 4 and Java Config
+http://www.baeldung.com/building-a-restful-web-service-with-spring-and-java-based-configuration
+Building a RESTful Web Service
+https://spring.io/guides/gs/rest-service/
+Setting Up Swagger 2 with a Spring REST API
+http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+
+=====================  Redis and Logback ========================================
+Logging to Redis using Spring Boot and Logback
+http://blog.florian-hopf.de/2015/01/logging-to-redis-using-spring-boot-and.html
 
 Hapik
 

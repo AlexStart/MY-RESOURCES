@@ -1,92 +1,160 @@
+Spring 4 MVC REST Controller Example (JSON CRUD Tutorial)
+http://viralpatel.net/blogs/spring-4-mvc-rest-example-json/
+CRUD Using Spring MVC 4.0 RESTful Web Services and AngularJS
+https://dzone.com/articles/crud-using-spring-mvc-40
+Spring 4 + REST Web Service + JSON Example with Tomcat
+http://www.concretepage.com/spring-4/spring-4-rest-web-service-json-example-tomcat
+
+Build a REST API with Spring 4 and Java Config
+http://www.baeldung.com/building-a-restful-web-service-with-spring-and-java-based-configuration
+
+RESTful Web Service tutorial: An Introduction for beginners
+http://viralpatel.net/blogs/restful-web-service-tutorial-introduction-rest-restful/
+How to Embed Tomcat within Maven Project – Run Tomcat with Maven
+http://viralpatel.net/blogs/embed-tomcat-maven-project-run-tomcat-maven/
+
 REST with Spring Tutorial
+
 http://www.baeldung.com/rest-with-spring-series/
 
+
 A Collection of Spring Tutorials
+
 http://www.baeldung.com/2012/01/03/this-is-not-your-fathers-spring-a-learning-project/
 
 Series
+
 http://www.baeldung.com/category/series/
 
 REST
 http://www.baeldung.com/category/rest/page/6/
 
+
 ----------- ладимир Цукур — Путь от CRUD к Hypermedia API с Spring -----------
+
 https://www.youtube.com/watch?v=G9apMqwRedA
 
+
 =================== Build a REST API =====================
+
 Build a REST API with Spring 4 and Java Config
+
 http://www.baeldung.com/building-a-restful-web-service-with-spring-and-java-based-configuration
 
+
 Spring Security for a REST API
+
 http://www.baeldung.com/securing-a-restful-web-service-with-spring-security
 
+
 Basic and Digest Authentication for a REST Service with Spring Security
+
 http://www.baeldung.com/basic-and-digest-authentication-for-a-rest-api-with-spring-security
 
+
 REST Pagination in Spring
+
 http://www.baeldung.com/rest-api-pagination-in-spring
 
+
 REST API Discoverability and HATEOAS
+
 http://www.baeldung.com/restful-web-service-discoverability
+
 
 HATEOAS for a Spring REST Service
 http://www.baeldung.com/rest-api-discoverability-with-spring
 
+
 Error Handling for REST with Spring
+
 http://www.baeldung.com/exception-handling-for-rest-with-spring
 
+
 Metrics for your Spring REST API
+
 http://www.baeldung.com/spring-rest-api-metrics
+
 
 ====================== Spring REST API ========================================
 
+
 -------------- SWAGGER ---------------------
 
+
 Setting Up Swagger 2 with a Spring REST API
+
 http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
 
+
 Swagger: Make Developers Love Working With Your REST API
+
 https://dzone.com/articles/swagger-make-developers-love
 
+
 GETTING STARTED WITH SWAGGER
+
 https://swagger.io/getting-started/
 
+
 Настройка Swashbuckle (Swagger) для WebAPI
+
 https://habrahabr.ru/post/317338/
 
+
 Документирование #микросервисов
+
 https://habrahabr.ru/post/322460/
+
 
 -------------------------------------------------------------------
 
 StackExchange REST Client with Spring and RestTemplate
+
 http://www.baeldung.com/tweeting-stackexchange-with-spring-social-part-1/
 
+
 Pagination with Spring REST and AngularJS table
+
 http://www.baeldung.com/pagination-with-a-spring-rest-api-and-an-angularjs-table
 
+
 Entity To DTO Conversion for a Spring REST API
+
 http://www.baeldung.com/entity-to-and-from-dto-for-a-java-spring-application
 
 REST API with Jersey and Spring
+
 http://www.baeldung.com/jersey-rest-api-with-spring
 
+
 -------------------- HATEOAS --------------------------
+
 An Intro to Spring HATEOAS
+
 http://www.baeldung.com/spring-hateoas-tutorial
 
+
 HATEOAS for a Spring REST Service
+
 http://www.baeldung.com/rest-api-discoverability-with-spring
+
 
 
 
 
 ---------------------- Test a REST API -------------------
+
 Test a REST API with Java
+
 http://www.baeldung.com/integration-testing-a-rest-api
 
+
 Testing REST with multiple MIME types
+
 http://www.baeldung.com/2013/01/18/testing-rest-with-multiple-mime-types/
 
+
 RestTemplate with Basic Authentication
+
 http://www.baeldung.com/2012/04/16/how-to-use-resttemplate-with-basic-authentication-in-spring-3-1/
