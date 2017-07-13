@@ -1,0 +1,20 @@
+================== Spring Boot + Swagger2 =============
+Spring Boot + Swagger2
+http://www.javainuse.com/spring/boot_swagger
+
+Setting Up Swagger 2 with a Spring REST API
+http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+
+============= JUnit test with Mockito =============
+
+JUnit test with Mockito and Spring
+https://samerabdelkafi.wordpress.com/2013/07/01/junit-test-with-mockito-and-spring/
+
+Unit Test Spring MVC Rest Service: MockMVC, JUnit, Mockito
+http://memorynotfound.com/unit-test-spring-mvc-rest-service-junit-mockito/
+
+Spring and Mockito - Happy Together
+https://solutiondesign.com/blog/-/blogs/spring-and-mockito-happy-together
+
+!!!! Unit tests with Mockito - Tutorial !!!!!!!
+http://www.vogella.com/tutorials/Mockito/article.html
