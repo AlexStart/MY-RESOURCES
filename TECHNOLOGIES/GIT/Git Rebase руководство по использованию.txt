@@ -1,0 +1,8 @@
+Git Rebase руководство по использованию
+https://habrahabr.ru/post/161009/
+
+3.6 Git Branching - Rebasing
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing
+
+3.6 Ветвление в Git - Перемещение
+https://git-scm.com/book/ru/v1/%D0%92%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-Git-%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5

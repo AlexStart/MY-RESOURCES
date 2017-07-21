@@ -6,3 +6,30 @@ http://www.dineshonjava.com/2016/07/customizing-spring-boot-auto-configuration.h
 Logging Configuration in Spring Boot
 http://www.dineshonjava.com/2016/07/logging-configuration-in-spring-boot.html
 
+================== Spring Boot + Swagger2 =============
+Spring Boot + Swagger2
+http://www.javainuse.com/spring/boot_swagger
+
+Setting Up Swagger 2 with a Spring REST API
+http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+
+================== Unit Testing Rest Services with Spring Boot and JUnit ===========
+Unit Testing Rest Services with Spring Boot and JUnit
+http://www.springboottutorial.com/unit-testing-for-spring-boot-rest-services
+
+Spring Boot Internationalization with Default Locale for Message Strings
+http://codedevstuff.blogspot.com.by/2015/05/spring-boot-internationalization-with.html
+Spring boot configuration file (annotation-based) - configures localization
+https://gist.github.com/AWolf81/d3ca839e711810345e42
+
+Spring Resource bundle with ResourceBundleMessageSource example
+http://www.mkyong.com/spring/spring-resource-bundle-with-resourcebundlemessagesource-example/
+
+--------- How to read values from properties file? ---------------
+https://stackoverflow.com/questions/9259819/how-to-read-values-from-properties-file
+There are various ways to achieve the same,Below are some common used ways in spring-
+
+Using PropertyPlaceholderConfigurer
+Using PropertySource
+Using ResourceBundleMessageSource
+Using PropertiesFactoryBean

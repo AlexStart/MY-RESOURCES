@@ -1,0 +1,12 @@
+Unit Testing Rest Services with Spring Boot and JUnit
+http://www.springboottutorial.com/unit-testing-for-spring-boot-rest-services
+
+Unit Test Spring MVC Rest Service: MockMVC, JUnit, Mockito
+http://memorynotfound.com/unit-test-spring-mvc-rest-service-junit-mockito/
+
+Unit Testing of Spring MVC Controllers: REST API
+https://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-spring-mvc-controllers-rest-api/
+
+Testing Spring MVC With Spring Boot 1.4: Part I
+https://dzone.com/articles/testing-spring-mvc-with-spring-boot-14-part-1
+
