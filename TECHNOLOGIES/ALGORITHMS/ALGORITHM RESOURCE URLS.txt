@@ -1,7 +1,26 @@
+Игорь Клейнер
+https://vk.com/public76350495
+https://vk.com/video-101965347_456239051?list=51a502cd7d54f21f84
+
+Динамическое программирование (новый курс лекций 2014-2015) by Игорь Клейнер
+https://www.youtube.com/playlist?list=PLUfHxBkkFMScK6mOOWp5s6LgbzmtfwmYQ
+https://vk.com/video-101965347_456239051?list=51a502cd7d54f21f84
+Динамическое программирование 2017 (улучшеный курс для Stepic)
+https://www.youtube.com/playlist?list=PLUfHxBkkFMScqPOn8J0aHvd48wykQNcWS
+
+ITc | сообщество программистов
+Подсчет числа способов подъема на ступеньку (Stairs Climbing Puzzle)
+https://vk.com/videos-101965347?section=album_1153&z=video-101965347_456250468%2Fclub101965347%2Fpl_-101965347_1153
+
+Алгоритмы: теория и практика. Stepic
+https://stepik.org/course/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B8-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0-%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B-217/syllabus
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@ COURSES @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 
 Analysis of Algorithms (  Robert Sedgewick, Professor Computer Science)
 https://www.coursera.org/learn/analysis-of-algorithms
+
 
 Специализация Структуры данных и алгоритмы (МФТИ)
 Master Algorithmic Programming Techniques. 
